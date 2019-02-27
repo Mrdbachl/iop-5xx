@@ -7,3 +7,7 @@ WEB-240-3241-SP-2019 Responsive Design inside out project iop-5xx
  - added Google analytics code
  - Pushed and tested on production server
  
+ Iop 5xx - | Step-500.0 | Branch 500-0
+ - added starter template to begin our project
+ - pulled template from https://startbootstrap.com/template-overviews/scrolling-nav/
+ 
