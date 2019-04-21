@@ -1,4 +1,4 @@
-$("body").prepend('<div class=text-white style=position:fixed;top:0;bottom:0;width:100%;z-index:99999999;padding-top:21%;background-color:rgba(87,87,87,.95);" id="cover-page"><div id="cover-page-con" class="container text-center"style="opacity:100%;"><img alt="Chris Rickenbach"class="img-fluid rounded-circle "src=http://via.placeholder.com/150x150><h1>Chris Rickenbach</h1><p class=lead>Do not declare your interest, show it.<p class=lead style=font-size:90%><i class="fa-4x fa-cog fa-spin fas"></i> get ready for an experience unlike any other...</div></div>');
+$("body").prepend('<div class=text-white style=position:fixed;top:0;bottom:0;width:100%;z-index:99999999;padding-top:21%;background-color:rgba(87,87,87,.95);" id="cover-page"><div id="cover-page-con" class="container text-center"style="opacity:100%;"><img alt="Chris Rickenbach"class="img-fluid rounded-circle "src=https://via.placeholder.com/150x150><h1>Chris Rickenbach</h1><p class=lead>Do not declare your interest, show it.<p class=lead style=font-size:90%><i class="fa-4x fa-cog fa-spin fas"></i> get ready for an experience unlike any other...</div></div>');
 
 var parentPageID= 85;
 
