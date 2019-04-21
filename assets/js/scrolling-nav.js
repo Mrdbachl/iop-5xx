@@ -1,4 +1,4 @@
-function startScroll() {
+(function($) {
   "use strict"; // Start of use strict
 
   // Smooth scrolling using jQuery easing
@@ -23,7 +23,7 @@ function startScroll() {
   // Activate scrollspy to add active class to navbar items on scroll
   $('body').scrollspy({
     target: '#mainNav',
-    offset: 54
+    offset: 56
   });
 
-};
+})(jQuery); // End of use strict
