@@ -6,9 +6,16 @@ html {
 	font-size: 120%;
 }
 
-#profileImg{
+section{
+	padding: 30px 10px;
+	overflow: hidden;
+}
+
+
+div#profileImg{
 	background: url(https://via.placeholder.com/150x150);
 	width: 150px;
 	height: 150px;
+	margin-top: 150px;
 	margin: auto;
 }
